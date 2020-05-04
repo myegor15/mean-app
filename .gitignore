@@ -1,0 +1,7 @@
+.idea
+
+node_modules
+config/keys.dev.js
+
+client/node_modules
+client/dist
